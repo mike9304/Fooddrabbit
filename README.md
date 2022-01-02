@@ -2,9 +2,6 @@
 
 ## Setup
 
-### 環境
-* macOS 10.15.7
-* Python 3.8
 
 ### 套件
 
@@ -25,7 +22,7 @@ pipenv install transitions
 
 pipenv install graphviz
 ```
-[Note: macOS Install error](https://github.com/pygraphviz/pygraphviz/issues/100)
+
 
 * for crawler
 ```sh
