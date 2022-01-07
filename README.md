@@ -47,7 +47,7 @@ python3 app.py
 * `recommand_restaurant`：選擇前往訂餐，或是快速瀏覽菜單
 * `recommand_menu`：顯示餐廳菜單
 
-## 使用範例
+## For example 
 ![1](https://user-images.githubusercontent.com/57171538/148490575-dbe0e735-959f-41a4-ab74-1ca5859b6ce9.jpg)
 ![2](https://user-images.githubusercontent.com/57171538/148490584-8c6b3ea6-e81d-44cb-af8e-242e25908153.jpg)
 ![3](https://user-images.githubusercontent.com/57171538/148490592-fb49bb29-263f-4998-a05e-1c47cd3dd371.jpg)
