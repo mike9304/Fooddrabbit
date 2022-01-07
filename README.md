@@ -67,10 +67,7 @@ Setting to deploy webhooks on Heroku.
 
 * [macOS, Windows](https://devcenter.heroku.com/articles/heroku-cli)
 
-you can use Homebrew (MAC)
-```sh
-brew tap heroku/brew && brew install heroku
-```
+
 
 ### Connect to Heroku
 
